@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2c8a9642-2a01-4672-a13d-73df77f2fbfb)
+
+
 # 🧾 Korean Lotto Results Scraper
 
 This is a simple Python script that scrapes the latest winning numbers from the official Korean Lotto website (https://www.dhlottery.co.kr).
