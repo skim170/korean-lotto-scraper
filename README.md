@@ -24,3 +24,10 @@ The script fetches the most recent round number and retrieves winning numbers fo
 1. Install dependencies (if not already installed):
    ```bash
    pip install requests beautifulsoup4
+2. Run the script:
+   python lotto_scraper.py
+3. You'll see the winning numbers for the last 50 draws printed in the console.
+
+## 📄 Notes
+- Bonus number and draw date are already parsed in the code but currently commented out. You can easily enable them if needed.
+- You can modify the range in the loop to get more or fewer results.
